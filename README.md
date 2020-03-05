@@ -1,1 +1,11 @@
 # my_note
+install
+
+1. postgresql:
+https://www.youtube.com/watch?v=-LwI4HMR_Eg
+2. css learn: 
+https://www.youtube.com/watch?v=pmKyG3NBY_k&list=PLWKjhJtqVAbl1AfjiGyYxwpdAPi5v-1OU
+3. postgreSQL learn:
+https://www.youtube.com/watch?v=qw--VYLpxG4
+4. instagram clone app:
+https://www.youtube.com/watch?v=dqjF3C9A-Yg
