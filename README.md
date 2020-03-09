@@ -9,3 +9,5 @@ https://www.youtube.com/watch?v=pmKyG3NBY_k&list=PLWKjhJtqVAbl1AfjiGyYxwpdAPi5v-
 https://www.youtube.com/watch?v=qw--VYLpxG4
 4. instagram clone app:
 https://www.youtube.com/watch?v=dqjF3C9A-Yg
+5. upload file:
+https://www.youtube.com/watch?v=9q3CIsJhBYE
