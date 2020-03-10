@@ -15,3 +15,6 @@ https://www.youtube.com/watch?v=9q3CIsJhBYE
 https://phocode.com/ruby/rails-lap-trinh-web-voi-ruby-on-rails/
 7.render and redirect:
 https://viblo.asia/p/su-khac-biet-giua-render-va-redirect-to-trong-rails-bWrZnNOYZxw
+8. validate:
+https://viblo.asia/p/cac-kieu-validation-trong-ruby-on-rails-GrLZDWbJKk0
+https://guides.rubyonrails.org/active_record_validations.html
