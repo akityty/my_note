@@ -11,3 +11,5 @@ https://www.youtube.com/watch?v=qw--VYLpxG4
 https://www.youtube.com/watch?v=dqjF3C9A-Yg
 5. upload file:
 https://www.youtube.com/watch?v=9q3CIsJhBYE
+6. rails a-z(tiếng việt):
+https://phocode.com/ruby/rails-lap-trinh-web-voi-ruby-on-rails/
