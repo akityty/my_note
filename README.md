@@ -18,3 +18,5 @@ https://viblo.asia/p/su-khac-biet-giua-render-va-redirect-to-trong-rails-bWrZnNO
 8. validate:
 https://viblo.asia/p/cac-kieu-validation-trong-ruby-on-rails-GrLZDWbJKk0
 https://guides.rubyonrails.org/active_record_validations.html
+9. shopping cart:
+https://github.com/tonydehnke/pragmatic-depot6
