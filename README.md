@@ -20,3 +20,5 @@ https://viblo.asia/p/cac-kieu-validation-trong-ruby-on-rails-GrLZDWbJKk0
 https://guides.rubyonrails.org/active_record_validations.html
 9. shopping cart:
 https://github.com/tonydehnke/pragmatic-depot6
+10. full course HTML,CSS:
+https://www.youtube.com/watch?v=mU6anWqZJcc
