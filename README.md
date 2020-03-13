@@ -1,4 +1,11 @@
 # my_note
+---------------------
+
+The key fingerprint is:
+SHA256:q6pVPiqa4thKHmz2LFmF+XwPdGszCwV3hC2oORWaYOM cong@cong-OptiPlex-9020
+
+
+---------------------
 install
 
 1. postgresql:
