@@ -29,3 +29,5 @@ https://guides.rubyonrails.org/active_record_validations.html
 https://github.com/tonydehnke/pragmatic-depot6
 10. full course HTML,CSS:
 https://www.youtube.com/watch?v=mU6anWqZJcc
+11. GIT: khoi phuc commit
+https://blog.duyet.net/2015/08/git-khoi-phuc-bang-reflog.html
